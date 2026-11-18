@@ -124,6 +124,6 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook · openpy
 ## Author
 **[Your Name]**
 - GitHub: [@MIDMahin](https://github.com/MIDMahin)
-- LinkedIn:[@MIDMahin](https://www.linkedin.com/in/midmahin)
+- LinkedIn:[@MIDMahin](https://www.linkedin.com/in/midmahin).
 
 
